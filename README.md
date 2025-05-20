@@ -14,7 +14,7 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ecommerce-template-ai-tool.git
+   git clone https://github.com/saadrehman171000/Ecommerce-Template-Ai-Tool.git
    ```
 Navigate to the project folder:
 
